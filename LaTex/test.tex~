@@ -1,0 +1,9 @@
+\documentclass[a4paper, 12pt]{article}
+\begin{document}
+
+The foundation blah blah blah \emph{analysis}
+
+Let $D$ be a subset of $\bf R$ and let $f \colon D \to \mathbr{R}$ be a real-valued function on $D$.
+
+
+\end{document}
